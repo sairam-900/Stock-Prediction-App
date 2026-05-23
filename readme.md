@@ -129,6 +129,9 @@ Deploy easily using:
 - Streamlit Community Cloud
 
 ---
+LIVE PROJECT LINK :- https://stock-prediction-app-8zjkbtxyg63iypax9kh5gu.streamlit.app/
+
+---
 
 # 👨‍💻 Author
 N.LEELA LAKSHMI SAI RAM
